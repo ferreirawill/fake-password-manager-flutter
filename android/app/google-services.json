@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "384243918915",
+    "firebase_url": "https://lightcontrol-72e1d.firebaseio.com",
+    "project_id": "lightcontrol-72e1d",
+    "storage_bucket": "lightcontrol-72e1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384243918915:android:706149e75b2deb7b3b8cf6",
+        "android_client_info": {
+          "package_name": "com.example.hello_world"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384243918915-u0bvjcvk4k2q3r2eb3mj0l2vmtg25bfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArrfe5XspAnCJtKEPhts5RsY6ayP5MdVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384243918915-u0bvjcvk4k2q3r2eb3mj0l2vmtg25bfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
