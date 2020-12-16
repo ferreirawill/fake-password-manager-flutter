@@ -18,7 +18,7 @@ class ReadBlocs extends BlocBase{
 
   getAll() async {
     var data = await DBProvider.db.getAllPasswords();
-    final key = Key.fromUtf8("Prime!roD!aDe&mprego&m13092017..");
+    final key = Key.fromUtf8("Mybe@ut!fullK&y.");
     final iv = IV.fromLength(16);
     final encrypter = Encrypter(AES(key));
     List<Map<String, dynamic>> _decryptedList = [];
